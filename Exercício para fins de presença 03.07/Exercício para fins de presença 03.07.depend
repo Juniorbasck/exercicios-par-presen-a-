@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625769539 source:c:\users\adils\desktop\programas feitos\exercício para fins de presença 03.07\main.cpp
+	<iostream>
+	<cstring>
+	<locale>
+

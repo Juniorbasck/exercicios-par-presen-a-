@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625088765 source:c:\users\adils\desktop\programas feitos\exercício para fins de nota na aula do dia22.06\main.cpp
+	<iostream>
+	<locale>
+	<iomanip>
+
